@@ -1,0 +1,10 @@
+
+autogen-agentchat
+autogen
+autogen-core
+langchain_community 
+wikipedia
+asyncio
+python-dotenv
+autogen-ext
+openai
